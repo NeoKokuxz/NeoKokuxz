@@ -49,7 +49,7 @@
 
 --- 
 
-### Recent Activities 
+### Recent Activities:
 <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [NeoKokuxz/NeoKokuxz](https://github.com/NeoKokuxz/NeoKokuxz)
 2. 📔 Created new repository [NeoKokuxz/NeoKokuxz](https://github.com/NeoKokuxz/NeoKokuxz)
