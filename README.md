@@ -34,24 +34,22 @@
 <br />
 
 ---
-### GitHub Stats 
+<details>
+ <summary>:zap: GitHub Stats</summary>
 
- <img align="left" alt="neokokuxz's GitHub Stats" src="https://github-readme-stats-neokokuxz.vercel.app/api?username=neokokuxz&show_icons=true&hide_border=true&count_private=true" />
+ <img alt="neokokuxz's GitHub Stats" src="https://github-readme-stats-neokokuxz.vercel.app/api?username=neokokuxz&show_icons=true&hide_border=true&count_private=true" /> <br />
 
-<br />
-<br />
+</details>
 
----
+<details>
+ <summary>:zap: Top Languages</summary>
 
-### Top Languages
+ [![Top Langs](https://github-readme-stats-neokokuxz.vercel.app/api/top-langs/?username=neokokuxz&hide=html,tsql)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
-[![Top Langs](https://github-readme-stats-neokokuxz.vercel.app/api/top-langs/?username=neokokuxz&hide=html,tsql)](https://github.com/anuraghazra/github-readme-stats)
-<!-- </details> -->
-<br />
-<br />
+--- 
 
----
-
+### Recent Activities 
 <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [NeoKokuxz/NeoKokuxz](https://github.com/NeoKokuxz/NeoKokuxz)
 2. 📔 Created new repository [NeoKokuxz/NeoKokuxz](https://github.com/NeoKokuxz/NeoKokuxz)
