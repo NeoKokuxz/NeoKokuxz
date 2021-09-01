@@ -1,10 +1,10 @@
 ### Hi there, I'm Neo 
 
 ## I'm a Full stack React developer
-- 🔭 I'm currently working on my personal website
-- 🌱 I’m currently learning about Epic EHR integration 🤣
-- 🥅 2021 Goals: Finish my personal website and build something interesting
-- ⚡ Fun fact: I like to play league
+- 🔭  I'm currently working on my personal website
+- 🌱  I’m currently learning about Epic EHR integration 
+- 🥅  2021 Goals: Finish my personal website and build something interesting
+- ⚡  Fun fact:  Coding is better with anime musics 🤣
 
 ### Languages and Tools:
 
