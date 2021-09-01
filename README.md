@@ -47,10 +47,9 @@
 [![Top Langs](https://github-readme-stats-neokokuxz.vercel.app/api/top-langs/?username=neokokuxz&hide=html,tsql)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
-
+<!--RECENT_ACTIVITY:last_update-->
 
 [website]: https://neochen.dev
 [linkedin]: https://www.linkedin.com/in/neo-chen-b79a9a17b/
