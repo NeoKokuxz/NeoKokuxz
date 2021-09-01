@@ -37,14 +37,14 @@
 <details>
  <summary>:zap: GitHub Stats</summary>
 
- <img align="left" alt="neokokuxz's GitHub Stats" src="https://github-readme-stats-neokokuxz.vercel.app/api?username=neokokuxz&show_icons=true&hide_border=true&count_private=true" />
+ <img align="left" alt="neokokuxz's GitHub Stats" src="https://github-readme-stats-neokokuxz.vercel.app/api?username=neokokuxz&show_icons=true&hide_border=true&count_private=true" /> <br />
 
 </details>
 
 <details>
  <summary>:zap: Top Languages</summary>
 
-[![Top Langs](https://github-readme-stats-neokokuxz.vercel.app/api/top-langs/?username=neokokuxz&hide=html,tsql)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-neokokuxz.vercel.app/api/top-langs/?username=neokokuxz&hide=html,tsql)](https://github.com/anuraghazra/github-readme-stats) <br />
 </details>
 
 <!--RECENT_ACTIVITY:start-->
