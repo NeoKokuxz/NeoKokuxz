@@ -37,7 +37,7 @@
 
 ---
 
-### GitHub Stats
+### GitHub Stats:
 
  <img alt="neokokuxz's GitHub Stats" src="https://github-readme-stats-neokokuxz.vercel.app/api?username=neokokuxz&show_icons=true&hide_border=true&count_private=true" /> <br />
 
