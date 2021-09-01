@@ -48,8 +48,10 @@
 [![Top Langs](https://github-readme-stats-neokokuxz.vercel.app/api/top-langs/?username=neokokuxz&hide=html,tsql)](https://github.com/anuraghazra/github-readme-stats)
 </details>
  <br />
-  <br />
+<br />
+
 ---
+
 <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [NeoKokuxz/NeoKokuxz](https://github.com/NeoKokuxz/NeoKokuxz)
 2. 📔 Created new repository [NeoKokuxz/NeoKokuxz](https://github.com/NeoKokuxz/NeoKokuxz)
