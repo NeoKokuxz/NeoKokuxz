@@ -40,6 +40,9 @@
 
 <br />
 <br />
+
+---
+
 ### Top Languages
 
 [![Top Langs](https://github-readme-stats-neokokuxz.vercel.app/api/top-langs/?username=neokokuxz&hide=html,tsql)](https://github.com/anuraghazra/github-readme-stats)
