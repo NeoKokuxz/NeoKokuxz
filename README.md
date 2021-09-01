@@ -37,32 +37,30 @@
 <details>
  <summary>:zap: GitHub Stats</summary>
 
- <img align="left" alt="neokokuxz's GitHub Stats" src="https://github-readme-stats-neokokuxz.vercel.app/api?username=neokokuxz&show_icons=true&hide_border=true&count_private=true" /> <br />
+ <img align="left" alt="neokokuxz's GitHub Stats" src="https://github-readme-stats-neokokuxz.vercel.app/api?username=neokokuxz&show_icons=true&hide_border=true&count_private=true" />
 
 </details>
-
+ <br />
+  <br />
 <details>
  <summary>:zap: Top Languages</summary>
 
-[![Top Langs](https://github-readme-stats-neokokuxz.vercel.app/api/top-langs/?username=neokokuxz&hide=html,tsql)](https://github.com/anuraghazra/github-readme-stats) <br />
+[![Top Langs](https://github-readme-stats-neokokuxz.vercel.app/api/top-langs/?username=neokokuxz&hide=html,tsql)](https://github.com/anuraghazra/github-readme-stats)
 </details>
+ <br />
+  <br />
+---
+<!--RECENT_ACTIVITY:start-->
+1. 📔 Created new repository [NeoKokuxz/NeoKokuxz](https://github.com/NeoKokuxz/NeoKokuxz)
+2. 📔 Created new repository [NeoKokuxz/NeoKokuxz](https://github.com/NeoKokuxz/NeoKokuxz)
+3. 🔱 Forked [NeoKokuxz/github-readme-stats](https://github.com/NeoKokuxz/github-readme-stats) from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+4. 🔱 Forked [NeoKokuxz/codeSTACKr](https://github.com/NeoKokuxz/codeSTACKr) from [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+5. ⭐ Starred [lenve/javaboy-code-samples](https://github.com/lenve/javaboy-code-samples)
+<!--RECENT_ACTIVITY:end-->
 
-<details>
- <summary>:zap: Recent Activities</summary>
-    <!--RECENT_ACTIVITY:start-->
-    1. 📔 Created new repository [NeoKokuxz/NeoKokuxz](https://github.com/NeoKokuxz/NeoKokuxz)
-    2. 📔 Created new repository [NeoKokuxz/NeoKokuxz](https://github.com/NeoKokuxz/NeoKokuxz)
-    3. 🔱 Forked [NeoKokuxz/github-readme-stats](https://github.com/NeoKokuxz/github-readme-stats) from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-    4. 🔱 Forked [NeoKokuxz/codeSTACKr](https://github.com/NeoKokuxz/codeSTACKr) from [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-    5. ⭐ Starred [lenve/javaboy-code-samples](https://github.com/lenve/javaboy-code-samples)
-    <!--RECENT_ACTIVITY:end-->
-
-    <!--RECENT_ACTIVITY:last_update-->
-    Last Updated: Wednesday, September 1st, 2021, 9:12:50 PM
-    <!--RECENT_ACTIVITY:last_update_end-->
-</details>
-
-
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: Wednesday, September 1st, 2021, 9:12:50 PM
+<!--RECENT_ACTIVITY:last_update_end-->
 
 [website]: https://neochen.dev
 [linkedin]: https://www.linkedin.com/in/neo-chen-b79a9a17b/
