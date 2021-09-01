@@ -44,7 +44,7 @@
 <details>
  <summary>:zap: Top Languages</summary>
  
- [![Top Langs](https://github-readme-stats-neokokuxz.vercel.app/api/top-langs/?username=neokokuxz&hide=html,tsql)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats-neokokuxz.vercel.app/api/top-langs/?username=neokokuxz&hide=html,tsql,swift)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 --- 
