@@ -17,7 +17,7 @@
 <details>
  <summary>:zap: GitHub Stats</summary>
 
- <img align="left" alt="neokokuxz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=neokokuxz&show_icons=true&hide_border=true" />
+ <img align="left" alt="neokokuxz's GitHub Stats" src="https://github-readme-stats-neokokuxz.vercel.app/api?username=neokokuxz&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -28,6 +28,8 @@
 </details>
 
 <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 
 [website]: https://neochen.dev
