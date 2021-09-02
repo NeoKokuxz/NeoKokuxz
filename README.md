@@ -45,15 +45,15 @@
 
 ### Recent Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [NeoKokuxz/NeoKokuxz](https://github.com/NeoKokuxz/NeoKokuxz)
-2. 📔 Created new repository [NeoKokuxz/NeoKokuxz](https://github.com/NeoKokuxz/NeoKokuxz)
-3. 🔱 Forked [NeoKokuxz/github-readme-stats](https://github.com/NeoKokuxz/github-readme-stats) from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-4. 🔱 Forked [NeoKokuxz/codeSTACKr](https://github.com/NeoKokuxz/codeSTACKr) from [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. ⭐ Starred [lenve/javaboy-code-samples](https://github.com/lenve/javaboy-code-samples)
+1. ⭐ Starred [nodejs-tw/nodejs-wiki-book](https://github.com/nodejs-tw/nodejs-wiki-book)
+2. ⭐ Starred [josharsh/100LinesOfCode](https://github.com/josharsh/100LinesOfCode)
+3. 📔 Created new repository [NeoKokuxz/NeoKokuxz](https://github.com/NeoKokuxz/NeoKokuxz)
+4. 📔 Created new repository [NeoKokuxz/NeoKokuxz](https://github.com/NeoKokuxz/NeoKokuxz)
+5. 🔱 Forked [NeoKokuxz/github-readme-stats](https://github.com/NeoKokuxz/github-readme-stats) from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 2nd, 2021, 4:15:41 AM
+Last Updated: Thursday, September 2nd, 2021, 4:45:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [website]: https://neochen.dev
