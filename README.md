@@ -45,15 +45,15 @@
 
 ### Recent Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nodejs-tw/nodejs-wiki-book](https://github.com/nodejs-tw/nodejs-wiki-book)
-2. ⭐ Starred [josharsh/100LinesOfCode](https://github.com/josharsh/100LinesOfCode)
-3. 📔 Created new repository [NeoKokuxz/NeoKokuxz](https://github.com/NeoKokuxz/NeoKokuxz)
+1. ⭐ Starred [expo/expo](https://github.com/expo/expo)
+2. ⭐ Starred [nodejs-tw/nodejs-wiki-book](https://github.com/nodejs-tw/nodejs-wiki-book)
+3. ⭐ Starred [josharsh/100LinesOfCode](https://github.com/josharsh/100LinesOfCode)
 4. 📔 Created new repository [NeoKokuxz/NeoKokuxz](https://github.com/NeoKokuxz/NeoKokuxz)
-5. 🔱 Forked [NeoKokuxz/github-readme-stats](https://github.com/NeoKokuxz/github-readme-stats) from [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+5. 📔 Created new repository [NeoKokuxz/NeoKokuxz](https://github.com/NeoKokuxz/NeoKokuxz)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 7th, 2021, 8:12:50 PM
+Last Updated: Tuesday, September 7th, 2021, 8:37:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [website]: https://neochen.dev
