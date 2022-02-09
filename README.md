@@ -45,7 +45,7 @@
 
 ### Recent Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [qqxx6661/miaosha](https://github.com/qqxx6661/miaosha)
+1. ⭐ Starred [panva/jose](https://github.com/panva/jose)
 2. ⭐ Starred [expo/expo](https://github.com/expo/expo)
 3. ⭐ Starred [nodejs-tw/nodejs-wiki-book](https://github.com/nodejs-tw/nodejs-wiki-book)
 4. ⭐ Starred [josharsh/100LinesOfCode](https://github.com/josharsh/100LinesOfCode)
@@ -53,7 +53,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 9th, 2022, 10:36:11 PM
+Last Updated: Wednesday, February 9th, 2022, 11:12:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [website]: https://neochen.dev
