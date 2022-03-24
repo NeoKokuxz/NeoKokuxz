@@ -45,15 +45,15 @@
 
 ### Recent Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [panva/jose](https://github.com/panva/jose)
-2. ⭐ Starred [expo/expo](https://github.com/expo/expo)
+1. 📔 Created new repository [NeoKokuxz/Typescript-React](https://github.com/NeoKokuxz/Typescript-React)
+2. ⭐ Starred [panva/jose](https://github.com/panva/jose)
 3. ⭐ Starred [nodejs-tw/nodejs-wiki-book](https://github.com/nodejs-tw/nodejs-wiki-book)
 4. ⭐ Starred [josharsh/100LinesOfCode](https://github.com/josharsh/100LinesOfCode)
 5. 📔 Created new repository [NeoKokuxz/NeoKokuxz](https://github.com/NeoKokuxz/NeoKokuxz)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 24th, 2022, 6:44:26 AM
+Last Updated: Thursday, March 24th, 2022, 7:13:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [website]: https://neochen.dev
