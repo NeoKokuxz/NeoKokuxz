@@ -3,7 +3,7 @@
 ## I'm a Full stack React developer
 - 🔭  I'm currently redesigning on my personal website.
 - 🌱  I’m currently working on Epic EHR integration for clinical decision support app.
-- 🥅  2021 Goals: Finish my personal website and build something interesting.
+- 🥅  2022 Goals: Become better in Typescript and animation. 
 - ⚡  Fun fact:  Coding is better with anime musics. 🤣
 
 ### Languages and Tools:
