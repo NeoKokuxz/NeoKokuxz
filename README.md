@@ -45,15 +45,15 @@
 
 ### Recent Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [itwanger/coding-more](https://github.com/itwanger/coding-more)
-2. ⭐ Starred [docs4dev/docs4dev](https://github.com/docs4dev/docs4dev)
-3. ⭐ Starred [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
-4. ⭐ Starred [httpie/http-prompt](https://github.com/httpie/http-prompt)
-5. ⭐ Starred [JinjunHan/iOSDeviceSupport](https://github.com/JinjunHan/iOSDeviceSupport)
+1. 📔 Created new repository [NeoKokuxz/Personal_Checker_Web](https://github.com/NeoKokuxz/Personal_Checker_Web)
+2. 📔 Created new repository [NeoKokuxz/Personal_Checker_Backend](https://github.com/NeoKokuxz/Personal_Checker_Backend)
+3. ⭐ Starred [itwanger/coding-more](https://github.com/itwanger/coding-more)
+4. ⭐ Starred [docs4dev/docs4dev](https://github.com/docs4dev/docs4dev)
+5. ⭐ Starred [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 30th, 2022, 11:37:45 PM
+Last Updated: Friday, April 1st, 2022, 1:57:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [website]: https://neochen.dev
