@@ -45,15 +45,15 @@
 
 ### Recent Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [NeoKokuxz/Node_server_notes](https://github.com/NeoKokuxz/Node_server_notes)
-2. 📔 Created new repository [NeoKokuxz/Personal_Checker_Web](https://github.com/NeoKokuxz/Personal_Checker_Web)
-3. 📔 Created new repository [NeoKokuxz/Personal_Checker_Backend](https://github.com/NeoKokuxz/Personal_Checker_Backend)
-4. ⭐ Starred [itwanger/coding-more](https://github.com/itwanger/coding-more)
-5. ⭐ Starred [docs4dev/docs4dev](https://github.com/docs4dev/docs4dev)
+1. ❗️ Opened issue [#3](https://github.com/NeoKokuxz/Personal_Tracker_Web/issues/3) in [NeoKokuxz/Personal_Tracker_Web](https://github.com/NeoKokuxz/Personal_Tracker_Web)
+2. ❗️ Opened issue [#2](https://github.com/NeoKokuxz/Personal_Tracker_Web/issues/2) in [NeoKokuxz/Personal_Tracker_Web](https://github.com/NeoKokuxz/Personal_Tracker_Web)
+3. ❗️ Opened issue [#1](https://github.com/NeoKokuxz/Personal_Tracker_Web/issues/1) in [NeoKokuxz/Personal_Tracker_Web](https://github.com/NeoKokuxz/Personal_Tracker_Web)
+4. ❗️ Opened issue [#2](https://github.com/NeoKokuxz/Personal_Tracker_Backend/issues/2) in [NeoKokuxz/Personal_Tracker_Backend](https://github.com/NeoKokuxz/Personal_Tracker_Backend)
+5. ❗️ Opened issue [#1](https://github.com/NeoKokuxz/Personal_Tracker_Backend/issues/1) in [NeoKokuxz/Personal_Tracker_Backend](https://github.com/NeoKokuxz/Personal_Tracker_Backend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 3rd, 2022, 1:48:08 AM
+Last Updated: Monday, April 4th, 2022, 1:52:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [website]: https://neochen.dev
