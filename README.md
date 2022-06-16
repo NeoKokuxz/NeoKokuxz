@@ -45,15 +45,15 @@
 
 ### Recent Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#3](https://github.com/NeoKokuxz/Personal_Tracker_Web/issues/3) in [NeoKokuxz/Personal_Tracker_Web](https://github.com/NeoKokuxz/Personal_Tracker_Web)
-2. ❗️ Opened issue [#2](https://github.com/NeoKokuxz/Personal_Tracker_Web/issues/2) in [NeoKokuxz/Personal_Tracker_Web](https://github.com/NeoKokuxz/Personal_Tracker_Web)
-3. ❗️ Opened issue [#1](https://github.com/NeoKokuxz/Personal_Tracker_Web/issues/1) in [NeoKokuxz/Personal_Tracker_Web](https://github.com/NeoKokuxz/Personal_Tracker_Web)
-4. ❗️ Opened issue [#2](https://github.com/NeoKokuxz/Personal_Tracker_Backend/issues/2) in [NeoKokuxz/Personal_Tracker_Backend](https://github.com/NeoKokuxz/Personal_Tracker_Backend)
-5. ❗️ Opened issue [#1](https://github.com/NeoKokuxz/Personal_Tracker_Backend/issues/1) in [NeoKokuxz/Personal_Tracker_Backend](https://github.com/NeoKokuxz/Personal_Tracker_Backend)
+1. ⭐ Starred [storybookjs/storybook](https://github.com/storybookjs/storybook)
+2. ❗️ Opened issue [#3](https://github.com/NeoKokuxz/Personal_Tracker_Web/issues/3) in [NeoKokuxz/Personal_Tracker_Web](https://github.com/NeoKokuxz/Personal_Tracker_Web)
+3. ❗️ Opened issue [#2](https://github.com/NeoKokuxz/Personal_Tracker_Web/issues/2) in [NeoKokuxz/Personal_Tracker_Web](https://github.com/NeoKokuxz/Personal_Tracker_Web)
+4. ❗️ Opened issue [#1](https://github.com/NeoKokuxz/Personal_Tracker_Web/issues/1) in [NeoKokuxz/Personal_Tracker_Web](https://github.com/NeoKokuxz/Personal_Tracker_Web)
+5. ❗️ Opened issue [#2](https://github.com/NeoKokuxz/Personal_Tracker_Backend/issues/2) in [NeoKokuxz/Personal_Tracker_Backend](https://github.com/NeoKokuxz/Personal_Tracker_Backend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 15th, 2022, 2:10:38 AM
+Last Updated: Thursday, June 16th, 2022, 2:02:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [website]: https://neochen.dev
