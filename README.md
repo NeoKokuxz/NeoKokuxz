@@ -1,6 +1,6 @@
 ### Hi there, I'm Neo 
 
-## I'm a Full stack React developer
+## I'm a Full stack developer
 - 🔭  I'm currently redesigning on my personal website.
 - 🌱  I’m currently working on Epic EHR integration for clinical decision support app.
 - 🥅  2022 Goals: Become better in Typescript and animation. 
