@@ -45,7 +45,7 @@
 
 ### Recent Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [storybookjs/storybook](https://github.com/storybookjs/storybook)
+1. ⭐ Starred [LoL-Fantome/cslol-manager](https://github.com/LoL-Fantome/cslol-manager)
 2. ❗️ Opened issue [#3](https://github.com/NeoKokuxz/Personal_Tracker_Web/issues/3) in [NeoKokuxz/Personal_Tracker_Web](https://github.com/NeoKokuxz/Personal_Tracker_Web)
 3. ❗️ Opened issue [#2](https://github.com/NeoKokuxz/Personal_Tracker_Web/issues/2) in [NeoKokuxz/Personal_Tracker_Web](https://github.com/NeoKokuxz/Personal_Tracker_Web)
 4. ❗️ Opened issue [#1](https://github.com/NeoKokuxz/Personal_Tracker_Web/issues/1) in [NeoKokuxz/Personal_Tracker_Web](https://github.com/NeoKokuxz/Personal_Tracker_Web)
@@ -53,7 +53,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 30th, 2022, 1:48:39 AM
+Last Updated: Thursday, December 1st, 2022, 2:01:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [website]: https://neochen.dev
