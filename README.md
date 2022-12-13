@@ -45,15 +45,15 @@
 
 ### Recent Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [LoL-Fantome/cslol-manager](https://github.com/LoL-Fantome/cslol-manager)
-2. ❗️ Opened issue [#3](https://github.com/NeoKokuxz/Personal_Tracker_Web/issues/3) in [NeoKokuxz/Personal_Tracker_Web](https://github.com/NeoKokuxz/Personal_Tracker_Web)
+1. 🔱 Forked [NeoKokuxz/smart-on-fhir-tutorial](https://github.com/NeoKokuxz/smart-on-fhir-tutorial) from [cerner/smart-on-fhir-tutorial](https://github.com/cerner/smart-on-fhir-tutorial)
+2. ⭐ Starred [LoL-Fantome/cslol-manager](https://github.com/LoL-Fantome/cslol-manager)
 3. ❗️ Opened issue [#2](https://github.com/NeoKokuxz/Personal_Tracker_Web/issues/2) in [NeoKokuxz/Personal_Tracker_Web](https://github.com/NeoKokuxz/Personal_Tracker_Web)
 4. ❗️ Opened issue [#1](https://github.com/NeoKokuxz/Personal_Tracker_Web/issues/1) in [NeoKokuxz/Personal_Tracker_Web](https://github.com/NeoKokuxz/Personal_Tracker_Web)
 5. ❗️ Opened issue [#2](https://github.com/NeoKokuxz/Personal_Tracker_Backend/issues/2) in [NeoKokuxz/Personal_Tracker_Backend](https://github.com/NeoKokuxz/Personal_Tracker_Backend)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 12th, 2022, 1:44:25 AM
+Last Updated: Tuesday, December 13th, 2022, 1:47:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [website]: https://neochen.dev
