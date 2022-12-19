@@ -45,15 +45,15 @@
 
 ### Recent Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [NeoKokuxz/zsh_profile](https://github.com/NeoKokuxz/zsh_profile)
-2. 🔱 Forked [NeoKokuxz/keysim](https://github.com/NeoKokuxz/keysim) from [crsnbrt/keysim](https://github.com/crsnbrt/keysim)
-3. 🔱 Forked [NeoKokuxz/smart-on-fhir-tutorial](https://github.com/NeoKokuxz/smart-on-fhir-tutorial) from [cerner/smart-on-fhir-tutorial](https://github.com/cerner/smart-on-fhir-tutorial)
-4. ⭐ Starred [LoL-Fantome/cslol-manager](https://github.com/LoL-Fantome/cslol-manager)
-5. ❗️ Opened issue [#2](https://github.com/NeoKokuxz/Personal_Tracker_Backend/issues/2) in [NeoKokuxz/Personal_Tracker_Backend](https://github.com/NeoKokuxz/Personal_Tracker_Backend)
+1. ⭐ Starred [crsnbrt/keysim](https://github.com/crsnbrt/keysim)
+2. 📔 Created new repository [NeoKokuxz/zsh_profile](https://github.com/NeoKokuxz/zsh_profile)
+3. 🔱 Forked [NeoKokuxz/keysim](https://github.com/NeoKokuxz/keysim) from [crsnbrt/keysim](https://github.com/crsnbrt/keysim)
+4. 🔱 Forked [NeoKokuxz/smart-on-fhir-tutorial](https://github.com/NeoKokuxz/smart-on-fhir-tutorial) from [cerner/smart-on-fhir-tutorial](https://github.com/cerner/smart-on-fhir-tutorial)
+5. ⭐ Starred [LoL-Fantome/cslol-manager](https://github.com/LoL-Fantome/cslol-manager)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 18th, 2022, 1:36:25 AM
+Last Updated: Monday, December 19th, 2022, 1:33:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [website]: https://neochen.dev
