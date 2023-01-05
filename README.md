@@ -1,10 +1,10 @@
 ### Hi there, I'm Neo 
 
 ## I'm a Full stack developer
-- 🔭  I'm currently redesigning on my personal website.
-- 🌱  I’m currently working on Epic EHR integration for clinical decision support app.
-- 🥅  2022 Goals: Become better in Typescript and animation. 
-- ⚡  Fun fact:  Coding is better with anime musics. 🤣
+- 🔭  I'm currently redesigning on my personal website and my blog.
+- 🌱  I’m currently working on Cerner EHR integration.
+- 🥅  2023 Goals: become more familiar with Python Django / backend. 
+- ⚡  Fun fact:  Anime music is so good when coding. 
 
 ### Languages and Tools:
 
