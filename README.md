@@ -2,7 +2,7 @@
 
 ## I'm a Full stack developer
 - 🔭  I'm currently redesigning on my personal website and my blog.
-- 🌱  I’m currently working on Cerner EHR integration.
+- 🌱  I’m currently working on Cerner and Athena EHR integration.
 - 🥅  2023 Goals: become more familiar with Python Django / backend. 
 - ⚡  Fun fact:  Anime music is so good when coding. 
 
