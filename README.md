@@ -45,15 +45,15 @@
 
 ### Recent Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [crsnbrt/keysim](https://github.com/crsnbrt/keysim)
-2. 📔 Created new repository [NeoKokuxz/zsh_profile](https://github.com/NeoKokuxz/zsh_profile)
-3. 🔱 Forked [NeoKokuxz/keysim](https://github.com/NeoKokuxz/keysim) from [crsnbrt/keysim](https://github.com/crsnbrt/keysim)
-4. 🔱 Forked [NeoKokuxz/smart-on-fhir-tutorial](https://github.com/NeoKokuxz/smart-on-fhir-tutorial) from [cerner/smart-on-fhir-tutorial](https://github.com/cerner/smart-on-fhir-tutorial)
-5. ⭐ Starred [LoL-Fantome/cslol-manager](https://github.com/LoL-Fantome/cslol-manager)
+1. 🔱 Forked [NeoKokuxz/django-practical-guide-course-code](https://github.com/NeoKokuxz/django-practical-guide-course-code) from [academind/django-practical-guide-course-code](https://github.com/academind/django-practical-guide-course-code)
+2. ⭐ Starred [academind/django-practical-guide-course-code](https://github.com/academind/django-practical-guide-course-code)
+3. ⭐ Starred [crsnbrt/keysim](https://github.com/crsnbrt/keysim)
+4. 📔 Created new repository [NeoKokuxz/zsh_profile](https://github.com/NeoKokuxz/zsh_profile)
+5. 🔱 Forked [NeoKokuxz/keysim](https://github.com/NeoKokuxz/keysim) from [crsnbrt/keysim](https://github.com/crsnbrt/keysim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 25th, 2023, 1:38:02 AM
+Last Updated: Thursday, January 26th, 2023, 1:40:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [website]: https://neochen.dev
