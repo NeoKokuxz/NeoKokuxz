@@ -45,15 +45,15 @@
 
 ### Recent Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [NeoKokuxz/django-practical-guide-course-code](https://github.com/NeoKokuxz/django-practical-guide-course-code) from [academind/django-practical-guide-course-code](https://github.com/academind/django-practical-guide-course-code)
-2. ⭐ Starred [academind/django-practical-guide-course-code](https://github.com/academind/django-practical-guide-course-code)
+1. ⭐ Starred [mui/material-ui](https://github.com/mui/material-ui)
+2. 🔱 Forked [NeoKokuxz/markdown](https://github.com/NeoKokuxz/markdown) from [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown)
 3. ⭐ Starred [crsnbrt/keysim](https://github.com/crsnbrt/keysim)
 4. 📔 Created new repository [NeoKokuxz/zsh_profile](https://github.com/NeoKokuxz/zsh_profile)
 5. 🔱 Forked [NeoKokuxz/keysim](https://github.com/NeoKokuxz/keysim) from [crsnbrt/keysim](https://github.com/crsnbrt/keysim)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 3rd, 2023, 1:29:30 AM
+Last Updated: Thursday, May 4th, 2023, 1:24:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [website]: https://neochen.dev
