@@ -45,15 +45,15 @@
 
 ### Recent Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mui/material-ui](https://github.com/mui/material-ui)
-2. 🔱 Forked [NeoKokuxz/markdown](https://github.com/NeoKokuxz/markdown) from [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown)
-3. ⭐ Starred [crsnbrt/keysim](https://github.com/crsnbrt/keysim)
-4. 📔 Created new repository [NeoKokuxz/zsh_profile](https://github.com/NeoKokuxz/zsh_profile)
-5. 🔱 Forked [NeoKokuxz/keysim](https://github.com/NeoKokuxz/keysim) from [crsnbrt/keysim](https://github.com/crsnbrt/keysim)
+1. 📔 Created new repository [NeoKokuxz/sam-user-checkin](https://github.com/NeoKokuxz/sam-user-checkin)
+2. 📔 Created new repository [NeoKokuxz/first-sam-app](https://github.com/NeoKokuxz/first-sam-app)
+3. ⭐ Starred [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
+4. ⭐ Starred [NeoKokuxz/github-readme-stats](https://github.com/NeoKokuxz/github-readme-stats)
+5. ⭐ Starred [aws/aws-sam-cli](https://github.com/aws/aws-sam-cli)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 4th, 2023, 1:24:37 AM
+Last Updated: Friday, May 5th, 2023, 1:20:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [website]: https://neochen.dev
