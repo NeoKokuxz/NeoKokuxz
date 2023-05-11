@@ -45,15 +45,15 @@
 
 ### Recent Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kohya-ss/sd-webui-additional-networks](https://github.com/kohya-ss/sd-webui-additional-networks)
-2. ⭐ Starred [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-3. 📔 Created new repository [NeoKokuxz/sam-user-checkin](https://github.com/NeoKokuxz/sam-user-checkin)
-4. 📔 Created new repository [NeoKokuxz/first-sam-app](https://github.com/NeoKokuxz/first-sam-app)
-5. ⭐ Starred [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
+1. 📔 Created new repository [NeoKokuxz/referral](https://github.com/NeoKokuxz/referral)
+2. ⭐ Starred [NeoKokuxz/fucking-algorithm](https://github.com/NeoKokuxz/fucking-algorithm)
+3. ⭐ Starred [kohya-ss/sd-webui-additional-networks](https://github.com/kohya-ss/sd-webui-additional-networks)
+4. ⭐ Starred [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+5. 📔 Created new repository [NeoKokuxz/sam-user-checkin](https://github.com/NeoKokuxz/sam-user-checkin)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 10th, 2023, 1:24:12 AM
+Last Updated: Thursday, May 11th, 2023, 1:26:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [website]: https://neochen.dev
