@@ -1,8 +1,8 @@
 ### Hi there, I'm Neo 
 
 ## I'm a Full stack developer
-- 🔭  Currently redesigning on my personal chatGPT project.
-- 🌱  Currently working on Cerner and Athena EHR integration.
+- 🔭  Currently redesigning on my personal AI project.
+- 🌱  Currently working on major EHR integration with Epic, Cerner, Athena and ECWs.
 - 🥅  2023 Goals: become more familiar with Python Django / backend. 
 - ⚡  Fun fact:  Anime music is so good when coding. 
 
