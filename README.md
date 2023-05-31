@@ -3,7 +3,7 @@
 ## I'm a Full stack developer
 - 🔭  Currently redesigning on my personal AI project.
 - 🌱  Currently working on major EHR integration with Epic, Cerner, Athena and ECWs.
-- 🥅  2023 Goals: become more familiar with Python Django / backend. 
+- 🥅  2023 Goals: Build something useful with Python, AI and more. 
 - ⚡  Fun fact:  Anime music is so good when coding. 
 
 ### Languages and Tools:
