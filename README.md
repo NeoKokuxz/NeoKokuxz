@@ -45,15 +45,15 @@
 
 ### Recent Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [NeoKokuxz/EHR_Backup](https://github.com/NeoKokuxz/EHR_Backup)
-2. 📔 Created new repository [NeoKokuxz/AI_Generation](https://github.com/NeoKokuxz/AI_Generation)
-3. 📔 Created new repository [NeoKokuxz/CDS_hook](https://github.com/NeoKokuxz/CDS_hook)
-4. 📔 Created new repository [NeoKokuxz/AWS_CLI_Commands](https://github.com/NeoKokuxz/AWS_CLI_Commands)
-5. 📔 Created new repository [NeoKokuxz/sam-referral-api](https://github.com/NeoKokuxz/sam-referral-api)
+1. ⭐ Starred [NeoKokuxz/LeetCode_Cracked](https://github.com/NeoKokuxz/LeetCode_Cracked)
+2. 📔 Created new repository [NeoKokuxz/EHR_Backup](https://github.com/NeoKokuxz/EHR_Backup)
+3. 📔 Created new repository [NeoKokuxz/AI_Generation](https://github.com/NeoKokuxz/AI_Generation)
+4. 📔 Created new repository [NeoKokuxz/CDS_hook](https://github.com/NeoKokuxz/CDS_hook)
+5. 📔 Created new repository [NeoKokuxz/AWS_CLI_Commands](https://github.com/NeoKokuxz/AWS_CLI_Commands)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 6th, 2023, 1:57:42 AM
+Last Updated: Friday, July 7th, 2023, 1:55:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [website]: https://neochen.dev
