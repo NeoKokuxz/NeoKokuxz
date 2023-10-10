@@ -25,7 +25,7 @@
 <br />
 <br />
 
- [![Top Langs](https://github-readme-stats-neokokuxz.vercel.app/api/top-langs/?username=neokokuxz&hide=html,tsql,java,swift&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats-neokokuxz.vercel.app/api/top-langs/?username=neokokuxz&hide=html,tsql,swift&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
 ### Connect with me:
