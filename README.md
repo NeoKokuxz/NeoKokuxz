@@ -39,7 +39,7 @@
 
 ### GitHub Stats:
 
- <img alt="neokokuxz's GitHub Stats" src="https://github-readme-stats-m5glovbw8-neokokuxz.vercel.app/api?username=neokokuxz&show_icons=true&hide_border=true&count_private=true&hide=contribs" /> <br />
+ <img alt="neokokuxz's GitHub Stats" src="https://github-readme-stats-m5glovbw8-neokokuxz.vercel.app/api?username=neokokuxz&show_icons=true&hide_border=true&count_private=true&hide=contribs&layout=compact" /> <br />
 
 --- 
 
