@@ -25,7 +25,7 @@
 <br />
 <br />
 
- [![Top Langs](https://github-readme-stats-neokokuxz.vercel.app/api/top-langs/?username=neokokuxz&hide=html,tsql)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats-neokokuxz.vercel.app/api/top-langs/?username=neokokuxz&hide=html,tsql,java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
 ### Connect with me:
@@ -39,7 +39,7 @@
 
 ### GitHub Stats:
 
- <img alt="neokokuxz's GitHub Stats" src="https://github-readme-stats-m5glovbw8-neokokuxz.vercel.app/api?username=neokokuxz&show_icons=true&hide_border=true&count_private=true&hide=contribs&layout=compact" /> <br />
+ <img alt="neokokuxz's GitHub Stats" src="https://github-readme-stats-m5glovbw8-neokokuxz.vercel.app/api?username=neokokuxz&show_icons=true&hide_border=true&count_private=true&hide=contribs" /> <br />
 
 --- 
 
