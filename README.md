@@ -45,15 +45,15 @@
 
 ### Recent Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pmndrs/jotai](https://github.com/pmndrs/jotai)
-2. 📔 Created new repository [NeoKokuxz/NextJS_Learning](https://github.com/NeoKokuxz/NextJS_Learning)
-3. ❗️ Opened issue [#4](https://github.com/NeoKokuxz/GOAT_Project/issues/4) in [NeoKokuxz/GOAT_Project](https://github.com/NeoKokuxz/GOAT_Project)
-4. ❗️ Opened issue [#3](https://github.com/NeoKokuxz/GOAT_Project/issues/3) in [NeoKokuxz/GOAT_Project](https://github.com/NeoKokuxz/GOAT_Project)
-5. ❗️ Opened issue [#2](https://github.com/NeoKokuxz/GOAT_Project/issues/2) in [NeoKokuxz/GOAT_Project](https://github.com/NeoKokuxz/GOAT_Project)
+1. 📔 Created new repository [NeoKokuxz/Okta_notes](https://github.com/NeoKokuxz/Okta_notes)
+2. ⭐ Starred [pmndrs/jotai](https://github.com/pmndrs/jotai)
+3. 📔 Created new repository [NeoKokuxz/NextJS_Learning](https://github.com/NeoKokuxz/NextJS_Learning)
+4. ❗️ Opened issue [#4](https://github.com/NeoKokuxz/GOAT_Project/issues/4) in [NeoKokuxz/GOAT_Project](https://github.com/NeoKokuxz/GOAT_Project)
+5. ❗️ Opened issue [#3](https://github.com/NeoKokuxz/GOAT_Project/issues/3) in [NeoKokuxz/GOAT_Project](https://github.com/NeoKokuxz/GOAT_Project)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 10th, 2023, 1:14:05 AM
+Last Updated: Wednesday, October 11th, 2023, 1:14:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [website]: https://neochen.dev
