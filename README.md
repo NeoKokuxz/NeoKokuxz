@@ -45,15 +45,15 @@
 
 ### Recent Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [NeoKokuxz/neo_personal](https://github.com/NeoKokuxz/neo_personal)
-2. 📔 Created new repository [NeoKokuxz/NeoPersonal](https://github.com/NeoKokuxz/NeoPersonal)
-3. 📔 Created new repository [NeoKokuxz/TaobaoCheckIn](https://github.com/NeoKokuxz/TaobaoCheckIn)
+1. 📔 Created new repository [NeoKokuxz/QR_code](https://github.com/NeoKokuxz/QR_code)
+2. 📔 Created new repository [NeoKokuxz/neo_personal](https://github.com/NeoKokuxz/neo_personal)
+3. 📔 Created new repository [NeoKokuxz/NeoPersonal](https://github.com/NeoKokuxz/NeoPersonal)
 4. 🔱 Forked [NeoKokuxz/Apex-](https://github.com/NeoKokuxz/Apex-) from [futurelegend1/Apex-](https://github.com/futurelegend1/Apex-)
 5. 🔱 Forked [NeoKokuxz/APEX-yolov5-aim-assist](https://github.com/NeoKokuxz/APEX-yolov5-aim-assist) from [davidhoung2/APEX-yolov5-aim-assist](https://github.com/davidhoung2/APEX-yolov5-aim-assist)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 6th, 2024, 1:13:40 AM
+Last Updated: Thursday, March 7th, 2024, 1:00:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [website]: https://neochen.dev
