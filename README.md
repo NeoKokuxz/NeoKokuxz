@@ -45,15 +45,15 @@
 
 ### Recent Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [NeoKokuxz/QR_code](https://github.com/NeoKokuxz/QR_code)
-2. 📔 Created new repository [NeoKokuxz/neo_personal](https://github.com/NeoKokuxz/neo_personal)
-3. 📔 Created new repository [NeoKokuxz/NeoPersonal](https://github.com/NeoKokuxz/NeoPersonal)
-4. 🔱 Forked [NeoKokuxz/Apex-](https://github.com/NeoKokuxz/Apex-) from [futurelegend1/Apex-](https://github.com/futurelegend1/Apex-)
-5. 🔱 Forked [NeoKokuxz/APEX-yolov5-aim-assist](https://github.com/NeoKokuxz/APEX-yolov5-aim-assist) from [davidhoung2/APEX-yolov5-aim-assist](https://github.com/davidhoung2/APEX-yolov5-aim-assist)
+1. 📔 Created new repository [NeoKokuxz/wen_calendar](https://github.com/NeoKokuxz/wen_calendar)
+2. 📔 Created new repository [NeoKokuxz/WenCalendar](https://github.com/NeoKokuxz/WenCalendar)
+3. 📔 Created new repository [NeoKokuxz/QR_code](https://github.com/NeoKokuxz/QR_code)
+4. 📔 Created new repository [NeoKokuxz/neo_personal](https://github.com/NeoKokuxz/neo_personal)
+5. 📔 Created new repository [NeoKokuxz/NeoPersonal](https://github.com/NeoKokuxz/NeoPersonal)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 8th, 2024, 1:13:29 AM
+Last Updated: Saturday, March 9th, 2024, 1:10:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [website]: https://neochen.dev
