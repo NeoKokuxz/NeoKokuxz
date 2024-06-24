@@ -1,10 +1,10 @@
 ### Hi there, I'm Neo 
 
 ## I'm a Full stack developer
-- 🔭  Currently redesigning on my personal AI project.
-- 🌱  Currently working on major EHR integration with Epic, Cerner, Athena and ECWs.
-- 🥅  2023 Goals: Build something useful with Python, AI and more. 
-- ⚡  Fun fact:  Anime music is so good when coding. 
+- 🔭  Currently working on an AI project.
+- 🌱  Currently learning about NextJS
+- 🥅  2024 Goals: finish the AI project and able to showcase it
+- ⚡  Fun fact:  EDM musics are the best!
 
 ### Languages and Tools:
 
