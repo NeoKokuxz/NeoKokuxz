@@ -45,15 +45,15 @@
 
 ### Recent Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [NeoKokuxz/wenwen_calendar](https://github.com/NeoKokuxz/wenwen_calendar)
-2. 🔱 Forked [NeoKokuxz/apexNoRecoilMarco](https://github.com/NeoKokuxz/apexNoRecoilMarco) from [JiaqinKang/apexNoRecoilMarco](https://github.com/JiaqinKang/apexNoRecoilMarco)
-3. ⭐ Starred [JiaqinKang/apexNoRecoilMarco](https://github.com/JiaqinKang/apexNoRecoilMarco)
-4. 🔱 Forked [NeoKokuxz/APEX_AIMBOT](https://github.com/NeoKokuxz/APEX_AIMBOT) from [NTUYWANG103/APEX_AIMBOT](https://github.com/NTUYWANG103/APEX_AIMBOT)
-5. ⭐ Starred [NTUYWANG103/APEX_AIMBOT](https://github.com/NTUYWANG103/APEX_AIMBOT)
+1. 📔 Created new repository [NeoKokuxz/Page-Next-app](https://github.com/NeoKokuxz/Page-Next-app)
+2. 📔 Created new repository [NeoKokuxz/first-next-app](https://github.com/NeoKokuxz/first-next-app)
+3. 📔 Created new repository [NeoKokuxz/wenwen_calendar](https://github.com/NeoKokuxz/wenwen_calendar)
+4. 🔱 Forked [NeoKokuxz/apexNoRecoilMarco](https://github.com/NeoKokuxz/apexNoRecoilMarco) from [JiaqinKang/apexNoRecoilMarco](https://github.com/JiaqinKang/apexNoRecoilMarco)
+5. ⭐ Starred [JiaqinKang/apexNoRecoilMarco](https://github.com/JiaqinKang/apexNoRecoilMarco)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 24th, 2024, 1:24:29 AM
+Last Updated: Tuesday, June 25th, 2024, 1:23:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [website]: https://neochen.dev
