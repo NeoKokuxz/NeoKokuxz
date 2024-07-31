@@ -45,15 +45,15 @@
 
 ### Recent Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [SwimmingLiu/YOLOSHOW](https://github.com/SwimmingLiu/YOLOSHOW)
-2. ⭐ Starred [wdragondragon/apex-yolov5](https://github.com/wdragondragon/apex-yolov5)
-3. ⭐ Starred [RootKit-Org/AI-Aimbot](https://github.com/RootKit-Org/AI-Aimbot)
-4. ⭐ Starred [Gerosity/Apex-Protection](https://github.com/Gerosity/Apex-Protection)
-5. 🔱 Forked [NeoKokuxz/zap-client](https://github.com/NeoKokuxz/zap-client) from [Gerosity/zap-client](https://github.com/Gerosity/zap-client)
+1. 🔱 Forked [NeoKokuxz/apex-yolov5](https://github.com/NeoKokuxz/apex-yolov5) from [wdragondragon/apex-yolov5](https://github.com/wdragondragon/apex-yolov5)
+2. ⭐ Starred [SwimmingLiu/YOLOSHOW](https://github.com/SwimmingLiu/YOLOSHOW)
+3. ⭐ Starred [wdragondragon/apex-yolov5](https://github.com/wdragondragon/apex-yolov5)
+4. ⭐ Starred [RootKit-Org/AI-Aimbot](https://github.com/RootKit-Org/AI-Aimbot)
+5. ⭐ Starred [Gerosity/Apex-Protection](https://github.com/Gerosity/Apex-Protection)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 30th, 2024, 1:32:57 AM
+Last Updated: Wednesday, July 31st, 2024, 1:12:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [website]: https://neochen.dev
