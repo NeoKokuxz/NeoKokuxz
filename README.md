@@ -3,7 +3,7 @@
 ## I'm a Full stack developer
 - 🔭  Currently working on an AI project.
 - 🌱  Currently learning about NextJS
-- 🥅  2024 Goals: finish the AI project and able to showcase it
+- 🥅  2025 Goals: Build something using AI
 - ⚡  Fun fact:  EDM musics are the best!
 
 ### Languages and Tools:
