@@ -45,15 +45,15 @@
 
 ### Recent Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [NeoKokuxz/LeetCode-grind](https://github.com/NeoKokuxz/LeetCode-grind)
-2. 📔 Created new repository [NeoKokuxz/helper_functions](https://github.com/NeoKokuxz/helper_functions)
-3. 🔱 Forked [NeoKokuxz/apex-yolov5](https://github.com/NeoKokuxz/apex-yolov5) from [wdragondragon/apex-yolov5](https://github.com/wdragondragon/apex-yolov5)
+1. 🔱 Forked [NeoKokuxz/mimic-fhir](https://github.com/NeoKokuxz/mimic-fhir) from [kind-lab/mimic-fhir](https://github.com/kind-lab/mimic-fhir)
+2. 🔱 Forked [NeoKokuxz/SMART-EHR-Launcher](https://github.com/NeoKokuxz/SMART-EHR-Launcher) from [aehrc/SMART-EHR-Launcher](https://github.com/aehrc/SMART-EHR-Launcher)
+3. ⭐ Starred [aehrc/SMART-EHR-Launcher](https://github.com/aehrc/SMART-EHR-Launcher)
 4. ⭐ Starred [SwimmingLiu/YOLOSHOW](https://github.com/SwimmingLiu/YOLOSHOW)
 5. ⭐ Starred [wdragondragon/apex-yolov5](https://github.com/wdragondragon/apex-yolov5)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 15th, 2025, 1:42:23 AM
+Last Updated: Thursday, January 16th, 2025, 1:41:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [website]: https://neochen.dev
