@@ -45,15 +45,15 @@
 
 ### Recent Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Leonidas-from-XIV/node-xml2js](https://github.com/Leonidas-from-XIV/node-xml2js)
-2. 🔱 Forked [NeoKokuxz/mimic-fhir](https://github.com/NeoKokuxz/mimic-fhir) from [kind-lab/mimic-fhir](https://github.com/kind-lab/mimic-fhir)
-3. 🔱 Forked [NeoKokuxz/SMART-EHR-Launcher](https://github.com/NeoKokuxz/SMART-EHR-Launcher) from [aehrc/SMART-EHR-Launcher](https://github.com/aehrc/SMART-EHR-Launcher)
-4. ⭐ Starred [aehrc/SMART-EHR-Launcher](https://github.com/aehrc/SMART-EHR-Launcher)
-5. ⭐ Starred [wdragondragon/apex-yolov5](https://github.com/wdragondragon/apex-yolov5)
+1. ⭐ Starred [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)
+2. ⭐ Starred [Leonidas-from-XIV/node-xml2js](https://github.com/Leonidas-from-XIV/node-xml2js)
+3. 🔱 Forked [NeoKokuxz/mimic-fhir](https://github.com/NeoKokuxz/mimic-fhir) from [kind-lab/mimic-fhir](https://github.com/kind-lab/mimic-fhir)
+4. 🔱 Forked [NeoKokuxz/SMART-EHR-Launcher](https://github.com/NeoKokuxz/SMART-EHR-Launcher) from [aehrc/SMART-EHR-Launcher](https://github.com/aehrc/SMART-EHR-Launcher)
+5. ⭐ Starred [aehrc/SMART-EHR-Launcher](https://github.com/aehrc/SMART-EHR-Launcher)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 28th, 2025, 1:41:53 AM
+Last Updated: Wednesday, January 29th, 2025, 1:42:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [website]: https://neochen.dev
