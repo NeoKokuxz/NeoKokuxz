@@ -45,15 +45,15 @@
 
 ### Recent Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [NeoKokuxz/utils](https://github.com/NeoKokuxz/utils)
-2. ⭐ Starred [Leonidas-from-XIV/node-xml2js](https://github.com/Leonidas-from-XIV/node-xml2js)
+1. 📔 Created new repository [NeoKokuxz/ai_portfolio_web](https://github.com/NeoKokuxz/ai_portfolio_web)
+2. 📔 Created new repository [NeoKokuxz/utils](https://github.com/NeoKokuxz/utils)
 3. 🔱 Forked [NeoKokuxz/mimic-fhir](https://github.com/NeoKokuxz/mimic-fhir) from [kind-lab/mimic-fhir](https://github.com/kind-lab/mimic-fhir)
 4. 🔱 Forked [NeoKokuxz/SMART-EHR-Launcher](https://github.com/NeoKokuxz/SMART-EHR-Launcher) from [aehrc/SMART-EHR-Launcher](https://github.com/aehrc/SMART-EHR-Launcher)
 5. ⭐ Starred [aehrc/SMART-EHR-Launcher](https://github.com/aehrc/SMART-EHR-Launcher)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 5th, 2025, 1:49:21 AM
+Last Updated: Thursday, March 6th, 2025, 1:49:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [website]: https://neochen.dev
