@@ -1,9 +1,9 @@
 ### Hi there, I'm Neo 
 
 ## I'm a Full stack developer
-- 🔭  Currently working on an AI project.
-- 🌱  Currently learning about AI designs.
-- 🥅  2025 Goals: Finsih and ship AI product. 
+- 🔭  Currently working on an AI project
+- 🌱  Currently learning about django
+- 🥅  2025 Goals: Finishing my personalized AI project
 - ⚡  Fun fact:  EDM musics are the best for coding!
 
 ### Languages and Tools:
