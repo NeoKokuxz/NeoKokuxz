@@ -45,7 +45,7 @@
 
 ### Recent Activities:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [neotopia-app/web-app](https://github.com/neotopia-app/web-app)
+1. ❗️ Opened issue [#1](https://github.com/NeoKokuxz/NeoKokuxz/issues/1) in [NeoKokuxz/NeoKokuxz](https://github.com/NeoKokuxz/NeoKokuxz)
 2. 📔 Created new repository [neotopia-app/server](https://github.com/neotopia-app/server)
 3. 📔 Created new repository [NeoKokuxz/neotopia_backend](https://github.com/NeoKokuxz/neotopia_backend)
 4. 📔 Created new repository [NeoKokuxz/ai_portfolio_web](https://github.com/NeoKokuxz/ai_portfolio_web)
@@ -53,7 +53,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 17th, 2025, 2:18:23 AM
+Last Updated: Friday, July 18th, 2025, 2:19:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [website]: https://neochen.dev
