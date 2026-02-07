@@ -1,10 +1,10 @@
 ### Hi there, I'm Neo 
 
-## I'm a Full stack developer
-- 🔭  Currently working on personal AI project
-- 🌱  Currently learning about AI scribe, AI agent and prompting in general
-- 🥅  2025 Goals: Finishing personalized AI project by the end of year
-- ⚡  Fun fact:  Snowboarding is hella fun!
+👋 I’m a Senior Full-Stack Developer
+🔭 Building a personal AI project focused on real-world usefulness
+🌱 Deep-diving into AI scribes, AI agents, and prompt engineering
+🥅 2026 Goal: Launch a fully personalized AI agent that actually runs my day
+⚡ Fun fact: Snowboarding is ridiculously fun 🏂
 
 ### Languages and Tools:
 
