@@ -45,7 +45,7 @@
 
 ### Recent Activities:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [agentsmd/agents.md](https://github.com/agentsmd/agents.md)
+1. ⭐ Starred [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)
 2. 📔 Created new repository [neotopia-app/server](https://github.com/neotopia-app/server)
 3. 📔 Created new repository [NeoKokuxz/neotopia_backend](https://github.com/NeoKokuxz/neotopia_backend)
 4. 📔 Created new repository [NeoKokuxz/ai_portfolio_web](https://github.com/NeoKokuxz/ai_portfolio_web)
@@ -53,7 +53,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 4th, 2026, 3:52:53 AM
+Last Updated: Tuesday, May 5th, 2026, 3:34:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 [website]: https://neochen.dev
